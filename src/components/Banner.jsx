@@ -3,11 +3,7 @@ import BannerHero from "../assets/img/Banner.png";
 const Banner = () => {
   return (
     <div>
-      <img
-        src="/assets/img/Banner.png"
-        alt="Banner Hero"
-        className="w-[200px]"
-      />
+      <img src={BannerHero} alt="Banner Hero" className="w-[1440px]" />
     </div>
   );
 };
