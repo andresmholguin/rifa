@@ -1,4 +1,4 @@
-import BannerHero from "../assets/img/Banner.png";
+import BannerHero from "../assets/img/bannerHorizontal.png";
 
 const Banner = () => {
   return (
