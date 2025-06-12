@@ -1,4 +1,4 @@
-import Banner from "../../assets/img/bannerHorizontal.png";
+import Banner from "../../assets/img/vertica.png";
 
 export const CarouselHero = () => {
   return (
