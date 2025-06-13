@@ -83,6 +83,7 @@ const SectionInputs = () => {
         [name]: value,
       }));
     }
+    console.log(numerosComprador);
   };
 
   return (
