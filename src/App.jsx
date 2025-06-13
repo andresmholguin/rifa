@@ -9,7 +9,7 @@ import { ToggleBillCompleted } from "./components/Main/ToggleBillCompleted";
 function App() {
   return (
     <div className="w-[1400px]">
-      <ModalBanner />
+      {/* <ModalBanner /> */}
       <NavBar />
       <Hero />
       {/* <Banner /> */}
